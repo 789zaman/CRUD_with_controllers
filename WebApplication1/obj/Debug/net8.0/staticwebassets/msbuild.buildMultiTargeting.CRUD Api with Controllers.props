@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CRUD Api with Controllers.props" />
+</Project>
